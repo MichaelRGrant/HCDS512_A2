@@ -41,3 +41,8 @@ The population data came from [population reference bureau](http://www.prb.org/D
 
 The [ORES](https://www.mediawiki.org/wiki/ORES ) service is provided by the Wikimedia foundation for open use. 
 
+---
+
+### Reproducibility
+
+Please follow along with the provided jupyter notebook. Each step is annotated and the code provided to reproduce the work I have completed. The code used in this project was R. 
